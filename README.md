@@ -5,13 +5,12 @@ ChatGPT is a user-friendly application. This application has been developed usin
 # Installation
 
 1. Clone the project
-2. Open project in Android Studio
-3. Change the YOUR_API_KEY to Yours key
-4. Then run the application
+2. Change the YOUR_API_KEY to Your key
+3. Then run the application
 
 # Downloads
 
-You can download the application from 
+You can download the application from https://github.com/Vazidnh3/ChatGPT-App/releases/tag/v1.0.0
 
 # Implementation
 
